@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LoSqO5QmsTlKR8nCprfuIhY3b3++iyl7pLzVkwTtWuDJPjdRbPM/BVR8wzy674qmTQi/WMezBYjBnbPfgodSEg==",
+  "dgSpecHash": "SbCuyZjT41EnTWH0u1fYjr0M7BRQC+cSBGWg17iA0osaJU4qZ8PqHkm6/cRL27xlSD9CMON9llsm3yRGvk1sjw==",
   "success": true,
-  "projectFilePath": "E:\\Barista\\BaristaAPI\\BaristaAPI.csproj",
+  "projectFilePath": "E:\\int test\\Barista-Backend\\BaristaAPI\\BaristaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chathura\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Chathura\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

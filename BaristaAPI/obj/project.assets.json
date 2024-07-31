@@ -4977,11 +4977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Barista\\BaristaAPI\\BaristaAPI.csproj",
+      "projectUniqueName": "E:\\int test\\Barista-Backend\\BaristaAPI\\BaristaAPI.csproj",
       "projectName": "BaristaAPI",
-      "projectPath": "E:\\Barista\\BaristaAPI\\BaristaAPI.csproj",
+      "projectPath": "E:\\int test\\Barista-Backend\\BaristaAPI\\BaristaAPI.csproj",
       "packagesPath": "C:\\Users\\Chathura\\.nuget\\packages\\",
-      "outputPath": "E:\\Barista\\BaristaAPI\\obj\\",
+      "outputPath": "E:\\int test\\Barista-Backend\\BaristaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chathura\\AppData\\Roaming\\NuGet\\NuGet.Config",

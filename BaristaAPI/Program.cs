@@ -13,11 +13,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("DbConnectionString");
-//builder.Services.AddDbContext<APIDbContext>(options =>
-//options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
-
 builder.Services.AddDbContext<APIDbContext>(options =>
-options.UseSqlServer(connectionString));
+options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+//builder.Services.AddDbContext<APIDbContext>(options =>
+//options.UseSqlServer(connectionString));
 
 builder.Services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
 builder.Services.AddScoped<ICafeRepository, SQLCafeRepository>();

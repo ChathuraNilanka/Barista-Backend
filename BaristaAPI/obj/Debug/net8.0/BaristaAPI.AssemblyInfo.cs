@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaristaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a99d518aeb4d23ac8941ef5d1428849477fa7454")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaristaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaristaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
